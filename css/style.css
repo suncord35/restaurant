@@ -1126,7 +1126,7 @@ footer #page-top a {
   text-decoration: none;
   font-size: 0.6rem;
   /*背景画像の指定*/
-  background: url(https://github.com/suncord35/restaurant/blob/main/images/pagetop_icon.png?raw=true) no-repeat center;
+  background: url(https://github.com/suncord35/restaurant/blob/main/images/page-top-icon.png?raw=true) no-repeat center;
   background-size: contain;
 }
 footer #page-top.floatAnime a {
